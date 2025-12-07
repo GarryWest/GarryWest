@@ -7,13 +7,13 @@ Welcome to my analytics portfolio. This space highlights **end‑to‑end ETL pi
 
 ## Featured Projects
 
-### 📊 [Finance ETL + Dashboard](./Finance-ETL-Dashboard)
+### 📊 [Finance ETL + Dashboard](../../../Finance-ETL-Dashboard)
 - **Goal:** Ingest and transform financial time‑series data (Yahoo Finance, FRED) into structured tables and dashboards.  
 - **Stack:** Python, SQL Server, Power BI.  
 - **Status:** 🚧 In Progress — ETL setup and initial datasets downloaded.  
 - **Focus:** Market trends, sector performance, and macroeconomic indicators.
 
-### 🏥 [Healthcare ETL + Dashboard](./Healthcare-ETL-Dashboard)
+### 🏥 [Healthcare ETL + Dashboard](../../../Healthcare-ETL-Dashboard)
 - **Goal:** Process CMS sample claims and healthcare quality datasets into structured tables and dashboards.  
 - **Stack:** Python, SQL Server, Power BI.  
 - **Status:** 🚧 In Progress — ETL setup and initial datasets downloaded.  
