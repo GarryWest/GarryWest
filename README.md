@@ -21,7 +21,7 @@ Welcome to my analytics portfolio. This space highlights **end‑to‑end ETL pi
 - **December 2025:** Setup repos, draft READMEs, download initial datasets.  
 - **January 2026:** Build ETL skeleton scripts, normalize schemas, and begin dashboard prototypes.  
 - **February 2026:** Publish dashboards with sample visuals, document workflows, and share updates publicly.  
-- **March 2026:** Finalize recruiter‑ready portfolio artifacts for internship applications.  
+- **March 2026:** Finalize recruiter‑ready portfolio artifacts.  
 
 ## Skills Demonstrated
 - **ETL Development:** Data ingestion, cleaning, and transformation pipelines.  
